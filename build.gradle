@@ -18,7 +18,7 @@ dependencies {
 }
 
 application {
-    mainClass.set('org.hyperskill.Cinema')
+    mainClass.set('org.hyperskill.app.Cinema')
 }
 
 run{
